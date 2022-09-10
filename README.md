@@ -192,6 +192,7 @@ lnsgkgsnl/1r5+B1/pppppp1pp/6p2/9/2P6/PP1PPPPPP/7R1/LNSGKGSNL w B 4
 - `position.isRepetition()`
 - `position.getSideToMove()`
 - `position.getPiece(Square.SQ_11)`
+- `position.getPiece(File.FILE_7, Rank.RANK_6)`
 - `position.getNumberOfPieceInHand(Color.BLACK, PieceType.ROOK)`
 - `position.getLastMove()`
 - `position.getMoveCounter()`
