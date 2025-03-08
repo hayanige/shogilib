@@ -16,6 +16,7 @@
 .project
 .settings
 .gradle
+.vscode
 target
 build
 dependency-reduced-pom.xml
